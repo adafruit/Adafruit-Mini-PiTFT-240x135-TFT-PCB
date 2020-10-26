@@ -4,10 +4,11 @@
 <a href="http://www.adafruit.com/products/4484"><img src="assets/4484.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit Mini PiTFT - 135x240 Color TFT Add-on for Raspberry Pi. 
+PCB files for the Adafruit Mini PiTFT - 135x240 and 240x240 Color TFT Add-on for Raspberry Pi. 
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/4393
+* https://www.adafruit.com/product/4484
 
 ### Description
 
